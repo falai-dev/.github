@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-labelledby="title">
+  <title id="title">falai</title>
+  <rect x=".5" y=".5" width="879" height="219" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="118" fill="#F0F6FC" font-size="68" font-weight="700" letter-spacing="-2">falai</text>
+    <text x="43" y="160" fill="#9AA4B2" font-size="22">falai.dev</text>
+  </g>
+  
+      <g fill="none" stroke="#A5B4FC" stroke-width="3" stroke-linejoin="round">
+        <path d="M653 53H746V96H687L670 109V96H653Z"/>
+        <path d="M724 119H817V162H800V175L783 162H724Z"/>
+        <path d="M707 109V140H724"/>
+      </g>
+      <g fill="#A5B4FC">
+        <circle cx="680" cy="74" r="4"/><circle cx="699" cy="74" r="4"/>
+        <circle cx="718" cy="74" r="4"/>
+      </g>
+</svg>
